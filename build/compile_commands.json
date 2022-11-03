@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/root/workspace/cpp/build",
+  "command": "/usr/sbin/clang++ -DFMT_SHARED -I/root/workspace/cpp/src -g -std=gnu++20 -o CMakeFiles/hello_world.dir/hello.cpp.o -c /root/workspace/cpp/hello.cpp",
+  "file": "/root/workspace/cpp/hello.cpp"
+},
+{
+  "directory": "/root/workspace/cpp/build",
+  "command": "/usr/sbin/clang++ -DFMT_SHARED -I/root/workspace/cpp/src -g -std=gnu++20 -o CMakeFiles/hello_world.dir/src/boo.cpp.o -c /root/workspace/cpp/src/boo.cpp",
+  "file": "/root/workspace/cpp/src/boo.cpp"
+}
+]
